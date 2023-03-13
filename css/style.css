@@ -1,0 +1,15 @@
+/* body {
+background-image: url(.\img\bowl-and-pet-daities-on-green-background1.png);
+background-color: #F0A83E;
+} */
+section.banner{
+    background-color:#F0A83E;
+    background-repeat: repeat;
+    align-items: center;
+    }
+#lista1 {
+        display:inline;
+        font-family:Arial;
+        font-weight:bold;
+        font-size:13px;
+        }
